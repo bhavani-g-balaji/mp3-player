@@ -35,7 +35,7 @@ I am thinking if I should emboss them maybe because printing on the buttons fade
 I installed Autodesk Fusion but it was too heavy but also intimidating, so tried FREECad instead. I couldn't fully understand how to make those beautiful designs like shared in slack, but with python and the app,
 I finally imported the same exaclidraw diagram itself as an svg. This made me understand a lot of concepts the tutorials were tryna say, nowhere near polished but atleast made me understand how to get things around and by the end I was able to make nice shapes (tho yeah not as polished if at all0
 
-![exaclidraw](images/october8.png)
+![finally the shapes in there](images/october8.png)
 
 
 # October 9: EVERYONE!! did it
@@ -44,6 +44,6 @@ I was trying since yesterday to get comofortable with more shapes and it was rea
 I am still not sure of how things go inside just as well and I saw Raspberry Pi's are really hard to find in India, so not about the internal parts or internal cuts yet, but externally I am really proud of myself with this SEE. 
 Maybe if I get used to the shortcuts and so, it will get really fast over time.
 
-![exaclidraw](images/october9.png)
+![outer shape](images/october9.png)
 
 **Total time spent: 6 hour**
