@@ -35,7 +35,7 @@ I am thinking if I should emboss them maybe because printing on the buttons fade
 I installed Autodesk Fusion but it was too heavy but also intimidating, so tried FREECad instead. I couldn't fully understand how to make those beautiful designs like shared in slack, but with python and the app,
 I finally imported the same exaclidraw diagram itself as an svg. This made me understand a lot of concepts the tutorials were tryna say, nowhere near polished but atleast made me understand how to get things around and by the end I was able to make nice shapes (tho yeah not as polished if at all0
 
-![finally the shapes in there](images/october8.png)
+![finally the shapes in there](images/october7.png)
 
 
 # October 9: EVERYONE!! did it
